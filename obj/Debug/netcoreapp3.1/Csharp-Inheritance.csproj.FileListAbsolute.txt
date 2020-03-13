@@ -1,0 +1,10 @@
+/Users/codenation/Desktop/Csharp-Inheritance/bin/Debug/netcoreapp3.1/Csharp-Inheritance.deps.json
+/Users/codenation/Desktop/Csharp-Inheritance/bin/Debug/netcoreapp3.1/Csharp-Inheritance.runtimeconfig.json
+/Users/codenation/Desktop/Csharp-Inheritance/bin/Debug/netcoreapp3.1/Csharp-Inheritance.runtimeconfig.dev.json
+/Users/codenation/Desktop/Csharp-Inheritance/bin/Debug/netcoreapp3.1/Csharp-Inheritance.dll
+/Users/codenation/Desktop/Csharp-Inheritance/bin/Debug/netcoreapp3.1/Csharp-Inheritance.pdb
+/Users/codenation/Desktop/Csharp-Inheritance/obj/Debug/netcoreapp3.1/Csharp-Inheritance.csprojAssemblyReference.cache
+/Users/codenation/Desktop/Csharp-Inheritance/obj/Debug/netcoreapp3.1/Csharp-Inheritance.AssemblyInfoInputs.cache
+/Users/codenation/Desktop/Csharp-Inheritance/obj/Debug/netcoreapp3.1/Csharp-Inheritance.AssemblyInfo.cs
+/Users/codenation/Desktop/Csharp-Inheritance/obj/Debug/netcoreapp3.1/Csharp-Inheritance.dll
+/Users/codenation/Desktop/Csharp-Inheritance/obj/Debug/netcoreapp3.1/Csharp-Inheritance.pdb
